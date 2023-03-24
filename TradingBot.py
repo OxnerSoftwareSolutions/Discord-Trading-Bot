@@ -10,7 +10,7 @@ import pandas_ta as ta
 from discord.ext import commands, tasks
 import requests
 
-
+#test
 
 # Set up logging
 logging.basicConfig(filename='bot.log', level=logging.ERROR)
